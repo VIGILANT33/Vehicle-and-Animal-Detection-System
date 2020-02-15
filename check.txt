@@ -1,3 +1,0 @@
-checking for text
-
-recheck
