@@ -1,2 +1,10 @@
 # Vehicle-and-Animal-Detection-System
-Minor Project
+Mionr Project
+
+Overview
+Implementation :
+
+
+Installation
+Install the required dependencies 
+Usage
